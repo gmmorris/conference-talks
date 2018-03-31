@@ -1,4 +1,4 @@
-# Pairing From Burnout To Vigor
+# Pairing From Burnout To Vigor: How I Went From Lone Ranger to Collaborator
 
 ## Abstract
 When it comes to Developer Burnout there are no silver bullets, each developer’s experience calls for a tailored remedy.
