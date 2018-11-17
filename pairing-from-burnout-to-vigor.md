@@ -1,18 +1,14 @@
-# Pairing From Burnout To Vigor: How I Went From Lone Ranger to Collaborator
+# Pairing From Lone Ranger to Collaborator
 
 ## Abstract
-When it comes to Developer Burnout there are no silver bullets, each developer’s experience calls for a tailored remedy.
-This is the story of mine.
+When it comes to Developer Burnout there are no silver bullets, each developer’s experience calls for a tailored remedy; This is what worked for me.
 
-When the time came for me to face having burned out, I decided to hang my cowboy hat up.
+When the time came for me to face my burnout, I decided to hang up my cowboy boots.
 But that didn’t have to mean the end of a career, instead I chose to go from lone ranger to collaborator.
 
-In this talk we will take a look at how an environment of Pair Programming, Shared Ownership and Mentorship can boost a personal sense of accomplishment, foster trust throughout a team and reignite a career.
+In this talk we will take a look at how a collaborative environment of Pair Programming, Shared Ownership and Mentorship can boost a personal sense of accomplishment, help foster trust and psychological safety throughout a team and reignite a passion for development.
 
 ## Pitch
-This is a talk about my personal experience of burning out, rather than a general talk about burnout.
-In this talk I describe the environment I worked in and the behaviours it fostered which I feel were conductive to my burnout.
-I then touch on my thought process in regards to why exactly I burned out, what I felt was needed to mitigate the issues and how that led to my choice of shifing into a very different work environment.
+I've been a developer for almost two decades and recently I almost dropped out of the industry due to burnout. I want to share my experience with others on how that happened, how collaboration helped me get past it and most of all practical steps the audience can adopt in their own workplaces to collaborate better.
 
-We then explore what Pair Programming is, how it works, the effect it has on its environment and how these effects helped me tackle the burnout.
-We discuss the upsides and downsides of the Shared Ownership fostered by Pair Programming, how it opened the door for a developer like myself to explore a completely new tech stack in which I had no experience before hand, open the door to a more diverse work place and to become a confident mentor.
+I'll touch on Pair Programming & shared ownership, the effects they have on  psychological safety, on encouraging a more diverse workplace and on mentorship.
